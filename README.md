@@ -1,6 +1,15 @@
 # mint-podspec-repo
 
+This repository contains the dependencies of CocoaPods.
 
+## Usage
+
+Add the following lines to the beginning of your Podfile, to allow the download of dependencies:
+
+```ruby
+source "https://github.com/mintforpeople/mint-podspec-repo.git"
+source "https://github.com/CocoaPods/Specs.git"
+```
 
 ## License
 
