@@ -15,7 +15,7 @@ source "https://github.com/CocoaPods/Specs.git"
 
 mint-podspec-repo is available under the Apache 2.0 license. See the LICENSE file for more info.
 
-***
+## Acknowledgement
 <!-- 
     ROSIN acknowledgement from the ROSIN press kit
     @ https://github.com/rosin-project/press_kit
